@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sort10"
+        android:title="@string/title_option"
+        android:color="@color/black">
+    </item>
+
+    <item
+        android:id="@+id/sort11"
+        android:title="@string/author_option">
+    </item>
+
+    <item
+        android:id="@+id/sort12"
+        android:title="@string/genre_option">
+    </item>
+
+    <item
+        android:id="@+id/sort13"
+        android:title="@string/language_option">
+    </item>
+
+    <item
+        android:id="@+id/sort14"
+        android:title="@string/personal_rating_option">
+    </item>
+</menu>
